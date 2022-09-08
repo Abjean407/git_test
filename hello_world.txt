@@ -1,1 +1,2 @@
 I'm sort of confused honestly.
+Practing my command line with git 
